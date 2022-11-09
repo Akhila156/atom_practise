@@ -6,6 +6,7 @@ public class Main {
 	private static Scanner scan = new Scanner(System.in);
 
 	public static void main(String[] args) {
+		//Asking user to enter the string
 		System.out.println("Enter the string");
 		String str = scan.nextLine();
 		int count = stringSpaceCount(str);
