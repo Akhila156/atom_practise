@@ -1,0 +1,5 @@
+package com.mindtree.challenge;
+
+public class excersie1 {
+  System.out.println("hello");
+}
