@@ -14,6 +14,7 @@ public class Example {
 		String temp[] = splitwords(str, wordsCount);
 		for (int i = 0; i < wordsCount; i++) {
 			System.out.println(temp[i]);
+				System.out.println(temp[i]);
 		}
 	}
 
